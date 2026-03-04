@@ -14,7 +14,6 @@ public class Listas {
         list.add("Anna");
         list.add(2,"Marco");
 
-
         System.out.println(list.size());
         for (String x : list) {
             System.out.println(x);
